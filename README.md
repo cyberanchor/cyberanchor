@@ -1,20 +1,25 @@
 <div align="left">
 
-# 👋 Welcome to my GitHub!
+# 👋 Welcome here!
 
 ---
 
-### 🚀 About Me
-Hey, I’m **Andrey Alekseev**, a **IT enthusiast**; Here I’ll be posting interesting things, miscellaneous stuff, and more!
-- 🌍 **Location:** Pyatigorsk, Russia
+### 🗒 About Me
+Im **Andrey Alekseev**, a **IT enthusiast**; Here I’ll be create interesting things, miscellaneous stuff, and more!
+- 🌍 **Location:** Pyatigorsk, Russia 🇷🇺
 - 💻 **Skills:** AI
-- 🎨 **Hobbies:** Pixel Art | Space | Coffee  
+- 🎨 **Hobbies:** football | pixel art | music | nature | cars
 
-![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen) 
+![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic)
+![Keybase BTC](https://img.shields.io/keybase/btc/cyberanchor?style=plastic)
+![Keybase PGP](https://img.shields.io/keybase/pgp/cyberanchor?style=plastic)
+
+
 
 ---
 
-### 🌠 Contact & Donation
+### 📞 Contact & Donation
 | 📡 **Contact** | 🔑 **PGP key** | 💰 **Crypto Donations** |
 |---------------|-----------------------|-------------------------|
 | 📧 email [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org) | 🔗 [Keybase](https://keybase.io/cyberanchor) | **BTC:** `bc1qtnc0v6n2azzufd7ksuwm6yre6fjcc8z030xfud` |
