@@ -7,8 +7,8 @@
 ### 🗒 About Me
 Im **Andrey Alekseev**, a **IT enthusiast**; Here I’ll be create interesting things, miscellaneous stuff, and more!
 - 🌍 **Location:** Pyatigorsk, Russia 🇷🇺
-- 💻 **Skills:** AI
-- 🎨 **Hobbies:** football | pixel art | music | nature | cars
+- 💻 **Skills:** 
+- 🎨 **Hobbies:** music | car | travel
 
 ![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic)
