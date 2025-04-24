@@ -5,7 +5,7 @@
 ---
 
 ### 🗒 About Me
-Im **Andrey Alekseev**, a **IT enthusiast**; Here I’ll be create interesting things, miscellaneous stuff, and more!
+Im **Andrey Alekseev**, a **IT enthusiast**;
 - 🌍 **Location:** Pyatigorsk, Russia 🇷🇺
 - 💻 **Skills:** 
 - 🎨 **Hobbies:** music | car | travel
