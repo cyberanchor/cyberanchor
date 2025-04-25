@@ -11,9 +11,9 @@ Im **Andrey Alekseev**, a **IT enthusiast**;
 - 🎨 **Hobbies:** music | car | travel
 
 ![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic)
-![Keybase BTC](https://img.shields.io/keybase/btc/cyberanchor?style=plastic)
-![Keybase PGP](https://img.shields.io/keybase/pgp/cyberanchor?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic&color=brightgreen)
+![Keybase BTC](https://img.shields.io/keybase/btc/cyberanchor?style=plastic&color=brightgreen)
+![Keybase PGP](https://img.shields.io/keybase/pgp/cyberanchor?style=plastic&color=brightgreen)
 
 
 
