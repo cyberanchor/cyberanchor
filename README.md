@@ -21,20 +21,20 @@ Im **Andrey Alekseev**, a **IT enthusiast**;
 
 ### 📬 Contact
 
-- **Email** ✉️: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
-- **Email** ✉️: [wait](mailto:)
-- **XMPP** 💬: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
+- ✉️ **Email**: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
+- ✉️ **Email**: [](mailto:)
+- 💬 **XMPP**: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
   *(Rarely online, prefer email)*
-- **Telegram** 📲: [wait]()
-- **PGP Key** 🔑: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc)  
+- 📲 **Telegram**: []()
+- 🔑 **PGP Key**: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc)  
   **Fingerprint**: `269E CB79 6CF5 31CB 3963  EC50 4F5A F4E9 F43B B1D2`
-- **Keybase** 🕵️: [cyberanchor](https://keybase.io/cyberanchor)
+- 🕵️ **Keybase**: [cyberanchor](https://keybase.io/cyberanchor)
 
 ---
 
 ### ☕ Donate
 
-- **Bitcoin** ₿: `bc1qtnc0v6n2azzufd7ksuwm6yre6fjcc8z030xfud`
+- ₿ **Bitcoin**: `bc1qtnc0v6n2azzufd7ksuwm6yre6fjcc8z030xfud`
 
 ---
 
