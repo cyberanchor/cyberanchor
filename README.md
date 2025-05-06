@@ -35,7 +35,7 @@
 ### 📬 Contact
 
 - ✉️ **Email**: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
-- ✉️ **Email**: [](mailto:)
+- ✉️ **Email**: [cyberanchor@undernet.uy](mailto:cyberanchor@undernet.uy)
 - 💬 **XMPP**: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
   *(Rarely online, prefer email)*
 - 📲 **Telegram**: []()
