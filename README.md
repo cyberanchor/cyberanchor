@@ -2,8 +2,6 @@
 
 # 👋 Welcome here!
 
----
-
 ### 💻 About Me 
 
 **Andrey Alekseev**, 32-year-old **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
