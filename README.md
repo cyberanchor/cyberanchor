@@ -4,11 +4,21 @@
 
 ---
 
-### 🗒 About Me
-Im **Andrey Alekseev**, a **IT enthusiast**;
-- 🌍 **Location:** Pyatigorsk, Russia 🇷🇺
-- 💻 **Skills:** 
-- 🎨 **Hobbies:** music | car | travel
+### 💻 About Me 
+
+**Andrey Alekseev**, 32-year-old **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
+
+### 🚀 Focus 
+- Now working on [eMailCompare](https://github.com/cyberanchor/eMailCompare)
+
+### 🌴 Hobbies 
+- Traveling on nature
+- Listening Nightwish, Linkin Park, phonk
+
+### 📚 Skills 
+- 🐧 Linux [███...39%]
+- 🖥️ Windows [██...24%]
+- 🕵️ OSINT [██...43%]
 
 ![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic&color=brightgreen)
