@@ -7,7 +7,7 @@
 **Andrey Alekseev**, 32-year-old **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
 
 ### 🚀 Focus 
-- Now working on [eMailCompare](https://github.com/cyberanchor/eMailCompare)
+- Now working on [Email Service Comparison](https://github.com/cyberanchor/eMailCompare)
 
 ### 🌴 Hobbies 
 - Traveling on nature
