@@ -16,19 +16,29 @@ Im **Andrey Alekseev**, a **IT enthusiast**;
 ![Keybase PGP](https://img.shields.io/keybase/pgp/cyberanchor?style=plastic&color=brightgreen)
 
 
+---
+
+
+### 📬 Contact
+
+- **Email** ✉️: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
+- **Email** ✉️: [wait](mailto:)
+- **XMPP** 💬: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
+  *(Rarely online, prefer email)*
+- **Telegram** 📲: [wait]()
+- **PGP Key** 🔑: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc)  
+  **Fingerprint**: `269E CB79 6CF5 31CB 3963  EC50 4F5A F4E9 F43B B1D2`
+- **Keybase** 🕵️: [cyberanchor](https://keybase.io/cyberanchor)
 
 ---
 
-### 📞 Contact & Donation
-| 📡 **Contact** | 🔑 **PGP key** | 💰 **Crypto Donations** |
-|---------------|-----------------------|-------------------------|
-| 📧 email [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org) | 🔗 [Keybase](https://keybase.io/cyberanchor) | **BTC:** `bc1qtnc0v6n2azzufd7ksuwm6yre6fjcc8z030xfud` |
-| 💬 tg []() | **Fingerprint:** `269E CB79 6CF5 31CB 3963  EC50 4F5A F4E9 F43B B1D2` |  |
-| 🌐 xmpp [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org) | 📜 [PGP Key](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | |
+### ☕ Donate
+
+- **Bitcoin** ₿: `bc1qtnc0v6n2azzufd7ksuwm6yre6fjcc8z030xfud`
 
 ---
 
-### 📝 Stats & Info
+### 📝 Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberanchor&theme=solarized_dark)
