@@ -6,6 +6,9 @@
 
 **Andrey Alekseev**, 32-year-old **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
 
+![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic&color=brightgreen)
+
 ### 🚀 Focus 
 - Now working on [Email Service Comparison](https://github.com/cyberanchor/eMailCompare)
 
@@ -18,14 +21,14 @@
 - 🖥️ Windows [██...24%]
 - 🕵️ OSINT [██...43%]
 
-![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic&color=brightgreen)
-![Keybase BTC](https://img.shields.io/keybase/btc/cyberanchor?style=plastic&color=brightgreen)
-![Keybase PGP](https://img.shields.io/keybase/pgp/cyberanchor?style=plastic&color=brightgreen)
 
+### 🗂️ Projects
+- [eMailCompare](https://github.com/cyberanchor/eMailCompare) [![GitHub stars](https://img.shields.io/github/stars/cyberanchor/eMailCompare)](https://github.com/cyberanchor/eMailCompare/stargazers)
+- [cryptomotor](https://github.com/cyberanchor/cryptomotor) [![GitHub stars](https://img.shields.io/github/stars/cyberanchor/cryptomotor)](https://github.com/cyberanchor/cryptomotor/stargazers)
+- [pypassgen](https://github.com/cyberanchor/pypassgen) [![GitHub stars](https://img.shields.io/github/stars/cyberanchor/pypassgen)](https://github.com/cyberanchor/pypassgen/stargazers)
+- [gist](https://gist.github.com/cyberanchor) [![Gist](https://img.shields.io/badge/-Gists-000000)](https://gist.github.com/cyberanchor)
 
 ---
-
 
 ### 📬 Contact
 
