@@ -4,7 +4,7 @@
 
 ### 💻 About Me 
 
-**Andrey Alekseev**, 32-year-old **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
+**Andrey Alekseev**, 32 y.o. **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
 
 ![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/cyberanchor?style=plastic&color=brightgreen)
