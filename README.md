@@ -40,14 +40,14 @@
 
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/cyberanchor">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberanchor&theme=solarized_dark" alt="Most commit language" height="250px">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberanchor&theme=solarized_dark" alt="Most commit language" height="200px">
     </a>
   </td>
 </tr>
 
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/cyberanchor">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyberanchor&theme=solarized_dark" alt="Repos per language" height="250px">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyberanchor&theme=solarized_dark" alt="Repos per language" height="200px">
     </a>
   </td>
 </tr>
@@ -55,14 +55,14 @@
 
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/cyberanchor">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberanchor&theme=solarized_dark" alt="Stats" height="250px">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberanchor&theme=solarized_dark" alt="Stats" height="200px">
     </a>
   </td>
 </tr>
 
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/cyberanchor">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberanchor&theme=solarized_dark" alt="Productive time" height="250px">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberanchor&theme=solarized_dark" alt="Productive time" height="200px">
     </a>
   </td>
 </tr>
