@@ -34,7 +34,7 @@
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/cyberanchor">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark" alt="Profile details" width="500px">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark" alt="Profile details" width="1000px">
     </a>
   </td> &nbsp;
 
