@@ -1,8 +1,8 @@
 <div align="left">
 
-# 👋 Welcome here!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="👋"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&weight=400&size=35&pause=500&color=2928FF&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-### 💻 About Me 
+> ### About me
 
 **Andrey Alekseev**, 32 y.o. **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
 
@@ -11,51 +11,62 @@
 
 ---
 
-### 🚀 Focus 
-- Now working on [Email Service Comparison](https://github.com/cyberanchor/eMailCompare)
+> ### Contact me
 
-### 🌴 Hobbies 
-- Traveling on nature
-- Listening Nightwish, Linkin Park, phonk
-
-### 📚 Skills 
-- 🐧 Linux [███...39%]
-- 🖥️ Windows [██...24%]
-- 🕵️ OSINT [██...43%]
-
-
-### 🗂️ Projects
-- [eMailCompare](https://github.com/cyberanchor/eMailCompare) [![GitHub stars](https://img.shields.io/github/stars/cyberanchor/eMailCompare)](https://github.com/cyberanchor/eMailCompare/stargazers)
-- [cryptomotor](https://github.com/cyberanchor/cryptomotor) [![GitHub stars](https://img.shields.io/github/stars/cyberanchor/cryptomotor)](https://github.com/cyberanchor/cryptomotor/stargazers)
-- [pypassgen](https://github.com/cyberanchor/pypassgen) [![GitHub stars](https://img.shields.io/github/stars/cyberanchor/pypassgen)](https://github.com/cyberanchor/pypassgen/stargazers)
-- [gist](https://gist.github.com/cyberanchor) [![Gist](https://img.shields.io/badge/-Gists-000000)](https://gist.github.com/cyberanchor)
-
----
-
-### 📬 Contact
-
-- ✉️ **Email (main)**: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
+- ✉️ **Email**: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
 - 💬 **XMPP**: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
-  *(Rarely online, prefer email)*
+  *(prefer email)*
 - 📲 **Telegram**: []()
-- 🔑 **PGP Key**: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc)  
+- 🔑 **PGP key**: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc)  
   **Fingerprint**: `269E CB79 6CF5 31CB 3963  EC50 4F5A F4E9 F43B B1D2`
-- 🕵️ **Keybase**: [cyberanchor](https://keybase.io/cyberanchor)
+- 🔑 **Keybase**: [cyberanchor](https://keybase.io/cyberanchor)
 
 ---
 
-### ☕ Donate
+> ### Donate
 
 - ₿ **Bitcoin**: `bc1qtnc0v6n2azzufd7ksuwm6yre6fjcc8z030xfud`
 
 ---
 
-### 📝 Stats
+> ### GitHub stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberanchor&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyberanchor&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberanchor&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberanchor&theme=solarized_dark)
+<tr>
+  <td style="text-align: center;width: 50%">
+    <a href="https://github.com/cyberanchor">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark" alt="Profile details" width="500px">
+    </a>
+  </td> &nbsp;
+
+
+  <td style="text-align: center;width: 50%">
+    <a href="https://github.com/cyberanchor">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberanchor&theme=solarized_dark" alt="Most commit language" height="209px">
+    </a>
+  </td>
+</tr>
+
+  <td style="text-align: center;width: 50%">
+    <a href="https://github.com/cyberanchor">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyberanchor&theme=solarized_dark" alt="Repos per language" height="209px">
+    </a>
+  </td>
+</tr>
+
+
+  <td style="text-align: center;width: 50%">
+    <a href="https://github.com/cyberanchor">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberanchor&theme=solarized_dark" alt="Stats" height="209px">
+    </a>
+  </td>
+</tr>
+
+  <td style="text-align: center;width: 50%">
+    <a href="https://github.com/cyberanchor">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberanchor&theme=solarized_dark" alt="Productive time" height="209px">
+    </a>
+  </td>
+</tr>
+
 
 </div>
