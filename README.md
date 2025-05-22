@@ -17,8 +17,7 @@
 - 💬 **XMPP**: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
   *(prefer email)*
 - 📲 **Telegram**: []()
-- 🔑 **PGP key**: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc)  
-  **Fingerprint**: `269E CB79 6CF5 31CB 3963  EC50 4F5A F4E9 F43B B1D2`
+- 🔑 **PGP key**: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc) **Fingerprint**: `269E CB79 6CF5 31CB 3963  EC50 4F5A F4E9 F43B B1D2`
 - 🔑 **Keybase**: [cyberanchor](https://keybase.io/cyberanchor)
 
 ---
@@ -34,7 +33,7 @@
 <tr>
   <td style="text-align: center;width: 50%">
     <a href="https://github.com/cyberanchor">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark" alt="Profile details" width="1000px">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark" alt="Profile details" width="418px">
     </a>
   </td> &nbsp;
 
