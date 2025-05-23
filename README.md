@@ -6,10 +6,9 @@
 
 **Andrey Alekseev**, 32 y.o. **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
 
-![Cyber](https://img.shields.io/badge/Cyber-Anchor-green)
 ![Russia](https://img.shields.io/badge/Location-Russia-green)
 ![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.4-green)
+![Version](https://img.shields.io/badge/Version-1.0.5-green)
 ![Updated](https://img.shields.io/badge/Last%20Update-May%2023,%202025-green)
 ---
 
