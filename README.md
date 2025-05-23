@@ -52,5 +52,9 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberanchor&theme=solarized_dark" alt="Productive time" height="200px">
   </td>
 
+<div style="border: 1px solid #ddd; padding: 5px; font-size: 12px; text-align: center;">
+/// version 1.0.0 Updated: May 2025
+</div>
+
 
 </div>
