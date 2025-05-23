@@ -16,9 +16,6 @@
 > ### *Contact*
 
 - ✉️ **Email**: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
-- 💬 **XMPP**: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
-  *(prefer email)*
-- 📲 **Telegram**: []()
 - 🔑 **PGP key**: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc) | [raw](https://raw.githubusercontent.com/cyberanchor/cyberanchor/refs/heads/main/public-key.asc) **Fingerprint**: `269E CB79 6CF5 31CB 3963  EC50 4F5A F4E9 F43B B1D2`
 - 🔑 **Keybase**: [cyberanchor](https://keybase.io/cyberanchor)
 
