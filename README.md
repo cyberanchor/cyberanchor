@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="👋"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+&weight=400&size=35&pause=500&color=2928FF&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-> ### About me
+> ### *About*
 
 **Andrey Alekseev**, 32 y.o. **IT-enthusiast** from Pyatigorsk, Russia 🇷🇺
 
@@ -11,7 +11,7 @@
 
 ---
 
-> ### Contact me
+> ### *Contact*
 
 - ✉️ **Email**: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org)
 - 💬 **XMPP**: [cyberanchor@krutt.org](xmpp:cyberanchor@krutt.org)  
@@ -22,13 +22,13 @@
 
 ---
 
-> ### Donate
+> ### *Donate*
 
 - ₿ **Bitcoin**: `bc1qtnc0v6n2azzufd7ksuwm6yre6fjcc8z030xfud`
 
 ---
 
-> ### GitHub stats
+> ### *GitHub stats*
 
 <tr>
   <td style="text-align: center;width: 50%">
@@ -52,9 +52,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberanchor&theme=solarized_dark" alt="Productive time" height="200px">
   </td>
 
-<div style="border: 1px solid #ddd; padding: 5px; font-size: 12px; text-align: center;">
-/// version 1.0.0 Updated: May 2025
 </div>
 
-
-</div>
+> */// version 1.0.3 23.05.2025*
