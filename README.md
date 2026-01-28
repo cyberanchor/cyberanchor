@@ -4,7 +4,7 @@
 > #### Contact
 - Email: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org) | [cyberanchor@riseup.net](mailto:cyberanchor@riseup.net) | [cyberanchor@undernet.uy](mailto:cyberanchor@undernet.uy)
 - PGP: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc)
-
+ 
 > #### GitHub stats
 <details>
 <tr>
@@ -32,5 +32,6 @@
 </div>
 </details>
 
+`Last update: 28 January 2026`
+
 ![Views](https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen)
-![Updated](https://img.shields.io/badge/Last%20Update-January%2019,%202026-green)
