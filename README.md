@@ -38,11 +38,10 @@
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberanchor&theme=solarized_dark" height="200">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberanchor&theme=solarized_dark" height="200">
         </details>
-        <br>
         <div style="display:inline-block;border:1px solid #333;border-radius:10px;padding:8px 12px;">
           <strong>Last update</strong> · <code>2 February 2026</code>
         </div>
-        <br><br>
+        <br>
         <img src="https://komarev.com/ghpvc/?username=cyberanchor&color=brightgreen" alt="Profile views">
       </div>
     </td>
