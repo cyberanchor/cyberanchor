@@ -5,8 +5,8 @@
 - Email: [cyberanchor@krutt.org](mailto:cyberanchor@krutt.org) | [cyberanchor@riseup.net](mailto:cyberanchor@riseup.net) | [cyberanchor@undernet.uy](mailto:cyberanchor@undernet.uy)
 - PGP: [.asc](https://github.com/cyberanchor/cyberanchor/blob/main/public-key.asc)
  
-> #### GitHub stats
-<details>
+ <details>
+ <summary>GitHub statistics</summary>
 <tr>
   <td style="text-align: center;width: 50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberanchor&theme=solarized_dark" alt="Profile details" width="685px">
