@@ -28,7 +28,7 @@
 
 
 <div style="display:inline-block;border:1px solid #333;border-radius:10px;padding:8px 12px">
-  <strong>Last update</strong> · <code>28 January 2026</code>
+  <strong>Last update</strong> · <code>2 February 2026</code>
 </div>
 
 <br>
