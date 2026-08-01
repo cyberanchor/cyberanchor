@@ -35,10 +35,11 @@ github:~$ curl -sL https://github.com/cyberanchor/cyberanchor/raw/main/public-ke
 <pre>
 github:~$ ls -l ~/projects
 
-<a href="https://github.com/cyberanchor/eMailCompare">eMailCompare</a>&emsp;&emsp;&emsp;Yet Another Email Service Comparison
-<a href="https://github.com/cyberanchor/knock">knock</a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Single-step TCP SYN port knocking with nftables
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyberanchor/eMailCompare">eMailCompare</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yet Another Email Service Comparison
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyberanchor/knock">knock</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Single-step TCP SYN port knocking with nftables
 
 github:~$ stat ~/projects
+  
 Last update · 1 August 2026
 </pre>
 
