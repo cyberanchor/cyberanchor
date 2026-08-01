@@ -11,8 +11,7 @@ github:~$ cat /etc/motd
 
   Im a Andrey Alekseev | IT-enthusiast | 34 y.o.
 
-github:~$
-
+github:~$ _
 </pre>
 
 
@@ -24,7 +23,6 @@ github:~$</a> cat ~/.contact
   email  <a href="mailto:cyberanchor@krutt.org">cyberanchor@krutt.org</a>
 
   pgp    <a href="https://github.com/cyberanchor/cyberanchor/raw/main/public-key.asc">269E CB79 6CF5 31CB 3963 EC50 4F5A F4E9 F43B B1D2</a>
-
 
 github:~$ curl -sL https://github.com/cyberanchor/cyberanchor/raw/main/public-key.asc | gpg --import
 </pre>
@@ -44,16 +42,16 @@ Last update · 1 August 2026
 </pre>
 
 
+<pre>
+github:~$ cat ~/stats.md
+  
+  <a href="https://github.com/cyberanchor/cyberanchor/blob/main/stats.md">→ full statistics</a>
 
-
-<p align="center">
-  <a href="https://github.com/cyberanchor/cyberanchor/blob/main/stats.md"><code>~/github-statistics.md</code></a>
-</p>
+github:~$ _
+</pre>
 
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=cyberanchor&style=flat-square&color=green" alt="views"/>
-
 </div>
