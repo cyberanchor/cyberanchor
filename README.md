@@ -1,9 +1,10 @@
+<!--
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=640&lines=welcome+here!" alt="welcome"/>
 
 </div>
-
+-->
 
 
 <pre>
