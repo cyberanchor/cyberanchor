@@ -51,7 +51,7 @@ github:~$ cat ~/stats.md
 github:~$ _
 </pre>
 
----
+<hr style="border: 1px solid blue;">
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cyberanchor&style=flat-square&color=green" alt="views"/>
