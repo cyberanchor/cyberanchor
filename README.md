@@ -2,7 +2,7 @@
 
   Im a Andrey Alekseev | IT-enthusiast | 34 y.o.
 
-  email  <a href="mailto:cyberanchor@krutt.org">cyberanchor@riseup.net</a>
+  email  <a href="mailto:cyberanchor@riseup.net">cyberanchor@riseup.net</a>
   pgp    <a href="https://github.com/cyberanchor/cyberanchor/raw/main/public-key.asc">269E CB79 6CF5 31CB 3963 EC50 4F5A F4E9 F43B B1D2</a>
 
   projects
