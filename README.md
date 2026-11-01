@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyberanchor/eMailCompare">eMailCompare</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;another independent interactive email service comparison project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyberanchor/knock">knock</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Single-step TCP SYN port knocking with nftables
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyberanchor/ScannersDB">ScannersDB</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;another internet scanners data base
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyberanchor/xmppDB">xmppDB</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private, public xmpp (jabber) servers list, collected from internet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cyberanchor/xmppDB">xmppDB</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private, public xmpp (jabber) servers list, collected from internet
 
 
   <a href="https://github.com/cyberanchor/cyberanchor/blob/main/stats.md">→ full github statistics</a>
