@@ -4,6 +4,7 @@
 
   email  <a href="mailto:cyberanchor@riseup.net">cyberanchor@riseup.net</a>
   pgp    <a href="https://github.com/cyberanchor/cyberanchor/raw/main/public-key.asc">269E CB79 6CF5 31CB 3963 EC50 4F5A F4E9 F43B B1D2</a>
+  xmr    4BEb8AUfSwQbGaHSVnBn2sMkFsYvrA6Eq4UyEf3JtcEZJd9eSm96YiZZwMWunKq6fUZSuAomwY4P835ybppBxi3NRY2ncMY
 
   projects
 
@@ -22,7 +23,7 @@
 
 <div align="center">
 
-Last update · 1 November 2026
+Last update · 12 November 2026
 
 <img src="https://komarev.com/ghpvc/?username=cyberanchor&style=flat-square&color=green" alt="views"/>
 </div>
