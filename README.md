@@ -4,7 +4,7 @@
 
   email  <a href="mailto:cyberanchor@riseup.net">cyberanchor@riseup.net</a>
   pgp    <a href="https://github.com/cyberanchor/cyberanchor/raw/main/public-key.asc">269E CB79 6CF5 31CB 3963 EC50 4F5A F4E9 F43B B1D2</a>
-  xmr    <mark><b>4BEb8AUfSwQbGaHSVnBn2sMkFsYvrA6Eq4UyEf3JtcEZJd9eSm96YiZZwMWunKq6fUZSuAomwY4P835ybppBxi3NRY2ncMY</b></mark>
+  xmr    <a href="https://cyberanchor.github.io/cyberanchor/xmr.html">4BEb8AUfSwQbGaHSVnBn2sMkFsYvrA6Eq4UyEf3JtcEZJd9eSm96YiZZwMWunKq6fUZSuAomwY4P835ybppBxi3NRY2ncMY</a>
 
   projects
 

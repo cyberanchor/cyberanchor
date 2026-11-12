@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="Monero (XMR) donation address of cyberanchor">
+<title>cyberanchor · donate xmr</title>
+<link rel="icon" href="data:,">
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #1f2328;
+    --muted: #59636e;
+    --line: #d1d9e0;
+    --box: #f6f8fa;
+    --accent: #f26822;
+    --accent-fg: #111111;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117;
+      --fg: #f0f6fc;
+      --muted: #9198a1;
+      --line: #3d444d;
+      --box: #151b23;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bg); }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 32px 16px;
+    background: var(--bg);
+    color: var(--fg);
+    font: 15px/1.5 ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  }
+  main { width: 100%; max-width: 440px; }
+  .who { margin: 0; color: var(--muted); }
+  .who a { color: inherit; }
+  h1 { margin: 4px 0 20px; font-size: 20px; }
+  .addr {
+    margin: 0;
+    padding: 12px;
+    background: var(--box);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    font-size: 14px;
+    word-break: break-all;
+    -webkit-user-select: all;
+    user-select: all;
+  }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+  .btn {
+    flex: 1 1 160px;
+    padding: 10px 14px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: transparent;
+    color: var(--fg);
+    font: inherit;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .btn:hover { border-color: var(--muted); }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-fg); font-weight: 600; }
+  .btn.primary:hover { filter: brightness(1.08); }
+  .btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .note { margin: 16px 0 0; color: var(--muted); font-size: 13px; }
+</style>
+</head>
+<body>
+<main>
+  <p class="who"><a href="https://github.com/cyberanchor">cyberanchor</a> · donate</p>
+  <h1>monero (xmr)</h1>
+  <p class="addr" id="addr">4BEb8AUfSwQbGaHSVnBn2sMkFsYvrA6Eq4UyEf3JtcEZJd9eSm96YiZZwMWunKq6fUZSuAomwY4P835ybppBxi3NRY2ncMY</p>
+  <div class="actions">
+    <a class="btn primary" href="monero:4BEb8AUfSwQbGaHSVnBn2sMkFsYvrA6Eq4UyEf3JtcEZJd9eSm96YiZZwMWunKq6fUZSuAomwY4P835ybppBxi3NRY2ncMY">open in wallet</a>
+    <button class="btn" id="copy" type="button" hidden>copy address</button>
+  </div>
+  <p class="note">“open in wallet” needs a Monero wallet on this device: Monero GUI, Feather, Cake Wallet or Monerujo. Without one, copy the address.</p>
+</main>
+<script>
+(function () {
+  var box = document.getElementById("addr");
+  var btn = document.getElementById("copy");
+  var addr = box.textContent.trim();
+  var timer;
+  btn.hidden = false;
+
+  function show(text) {
+    btn.textContent = text;
+    clearTimeout(timer);
+    timer = setTimeout(function () { btn.textContent = "copy address"; }, 1600);
+  }
+
+  function fallback() {
+    var range = document.createRange();
+    range.selectNodeContents(box);
+    var sel = window.getSelection();
+    sel.removeAllRanges();
+    sel.addRange(range);
+    var ok = false;
+    try { ok = document.execCommand("copy"); } catch (e) { ok = false; }
+    show(ok ? "copied" : "selected, press ctrl+c");
+  }
+
+  btn.addEventListener("click", function () {
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(addr).then(function () { show("copied"); }, fallback);
+    } else {
+      fallback();
+    }
+  });
+})();
+</script>
+</body>
+</html>
